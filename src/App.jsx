@@ -6,20 +6,25 @@ import Header from './Components/Header/Header';
 
 function App() {
   const [bookmarks, setBookmarks] = useState([]);
+  const [readingTime, setReadingTime] = useState(0);
   const handleAddToBookmarks = blog =>{
     console.log(blog);
     const newBookmarks = [...bookmarks, blog];
     setBookmarks(newBookmarks);
   }
+  const handleReadingTime = time =>{
+    const newReadingTimes = readingTime + time;
+    setReadingTime(newReadingTimes);
+  }
   return (
     <>
     <Header></Header>
     <div className='grid lg:grid-cols-5 grid-cols-1 gap-5'>
-    <div className='col-span-4'>
-    <Blogs handleAddToBookmarks = {handleAddToBookmarks}></Blogs>
+    <div className='col-span-3'>
+    <Blogs handleAddToBookmarks = {handleAddToBookmarks} handleReadingTime={handleReadingTime}></Blogs>
     </div>
-    <div className='col-span-1'>
-    <Bookmarks bookmarks={bookmarks}></Bookmarks>
+    <div className='col-span-2'>
+    <Bookmarks bookmarks={bookmarks} readingTime={readingTime}></Bookmarks>
     </div>
     </div>
     </>
