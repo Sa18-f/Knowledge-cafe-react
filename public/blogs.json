@@ -1,0 +1,52 @@
+[
+  {
+    "id": "001",
+    "cover": "https://i.ibb.co/27MQKfF/6165661.jpg",
+    "title": "The Enigmatic Garden",
+    "author": "Aurora Nightingale",
+    "author_img": "https://i.ibb.co/wQz1S7v/thoughtful-creative-male-journalist-writer-biting-pencil-holding-notebook-writing-schedule-look-thin.jpg",
+    "posted_date": "2024-03-10",
+    "reading_time": 15,
+    "hashtags": ["fantasy", "mystery", "adventure"]
+  },
+  {
+    "id": "002",
+    "cover": "https://i.ibb.co/nm7nHxY/business-facebook-cover-26.jpg",
+    "title": "Echoes of Eternity",
+    "author": "Dante Shadow",
+    "author_img": "https://i.ibb.co/8NfyxgD/serious-female-student-with-books-pen.jpg",
+    "posted_date": "2024-03-12",
+    "reading_time": 20,
+    "hashtags": ["science fiction", "time travel", "dystopia"]
+  },
+  {
+    "id": "003",
+    "cover": "https://i.ibb.co/25mn5H9/3946994.jpg",
+    "title": "Sapphire Shores",
+    "author": "Luna Waters",
+    "author_img": "https://i.ibb.co/dWYzcXT/young-male-model-reading-front-view.jpg",
+    "posted_date": "2024-03-11",
+    "reading_time": 18,
+    "hashtags": ["romance", "drama", "contemporary"]
+  },
+  {
+    "id": "004",
+    "cover": "https://i.ibb.co/9vh2xg9/Business-Facebook-Cover-05.jpg",
+    "title": "Infinite Horizon",
+    "author": "Solstice Blaze",
+    "author_img": "https://i.ibb.co/x34yT4Y/side-view-man-working-late-night.jpg",
+    "posted_date": "2024-03-09",
+    "reading_time": 22,
+    "hashtags": ["adventure", "exploration", "discovery"]
+  },
+  {
+    "id": "005",
+    "cover": "https://i.ibb.co/cFVz3Jw/7492438.jpg",
+    "title": "Whispers in the Wind",
+    "author": "Mystic Moon",
+    "author_img": "https://i.ibb.co/FH7CP34/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+    "posted_date": "2024-03-13",
+    "reading_time": 17,
+    "hashtags": ["mystery", "suspense", "thriller"]
+  }
+]
