@@ -1,6 +1,6 @@
 [
   {
-    "id": "001",
+    "id": 1,
     "cover": "https://i.ibb.co/27MQKfF/6165661.jpg",
     "title": "The Enigmatic Garden",
     "author": "Aurora Nightingale",
@@ -10,7 +10,7 @@
     "hashtags": ["fantasy", "mystery", "adventure"]
   },
   {
-    "id": "002",
+    "id": 2,
     "cover": "https://i.ibb.co/nm7nHxY/business-facebook-cover-26.jpg",
     "title": "Echoes of Eternity",
     "author": "Dante Shadow",
@@ -20,7 +20,7 @@
     "hashtags": ["science fiction", "time travel", "dystopia"]
   },
   {
-    "id": "003",
+    "id": 3,
     "cover": "https://i.ibb.co/25mn5H9/3946994.jpg",
     "title": "Sapphire Shores",
     "author": "Luna Waters",
@@ -30,7 +30,7 @@
     "hashtags": ["romance", "drama", "contemporary"]
   },
   {
-    "id": "004",
+    "id": 4,
     "cover": "https://i.ibb.co/9vh2xg9/Business-Facebook-Cover-05.jpg",
     "title": "Infinite Horizon",
     "author": "Solstice Blaze",
@@ -40,7 +40,7 @@
     "hashtags": ["adventure", "exploration", "discovery"]
   },
   {
-    "id": "005",
+    "id": 5,
     "cover": "https://i.ibb.co/cFVz3Jw/7492438.jpg",
     "title": "Whispers in the Wind",
     "author": "Mystic Moon",
